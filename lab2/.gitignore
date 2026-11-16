@@ -1,0 +1,15 @@
+.venv/
+.tools/
+node_modules/
+build/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+/lab-report.md
+/.vscode/
+/package.json
+/package-lock.json
+/.node-version
+/pyproject.toml
+/uv.lock
